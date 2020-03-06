@@ -6,7 +6,7 @@ whether the Cancerous tumors are saprable from the Non-Cancerous ones.
 3. Performed basic Gene Set Enrichment Analysis using gseapy package.
 
 Tried to apply GSVA algorithm on gene-expression data using R (docker) and Python but could'nt do it due to an internal error 
-of "Not availability of pathways.csv".
+of "Not availability of pathways.csv". The screenshot of the error occured is available in the repo.
 
 Challenges Faced:
 * Understanding and dealing gene-expression datasets which are non-typical in nature.
